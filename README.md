@@ -22,7 +22,12 @@ I am a Bachelor of Science in Information Technology student with an interest in
 ## Projects
 
 ### Student Report Card System
-A simple programming project designed to manage student information and academic results.
+
+A beginner-friendly C++ program that collects student marks, calculates the average, assigns a grade, and shows whether the student has passed or failed.
+
+**Technology:** C++
+
+[View the source code](student_report_card.cpp)
 
 ### Programming Practice
 Beginner programming exercises in Python, C, and C++ covering variables, conditions, loops, arrays, and basic problem solving.
